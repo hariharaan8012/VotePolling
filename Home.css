@@ -1,0 +1,26 @@
+/* src/components/Home.css */
+
+.container {
+    position: relative;
+    height: 100vh;
+    background: url('C:\Users\harih\Downloads\election (1).jpg') center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff; /* Text color */
+  }
+  
+  .container h1 {
+    font-size: 2.5rem; /* Adjust the font size as needed */
+    margin-bottom: 1rem;
+  }
+  
+  .container p {
+    font-size: 1.2rem; /* Adjust the font size as needed */
+    margin-bottom: 2rem;
+  }
+  
+  /* Add more styling for other elements if necessary */
+  
